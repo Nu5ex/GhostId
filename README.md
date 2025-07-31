@@ -24,8 +24,7 @@
 ## 📦 Instalación
 Clona el repositorio y entra en el directorio:
 ```bash
-git clone https://github.com/TU-USUARIO/UsernameChecker.git
-cd UsernameChecker
+git clone https://github.com/Nu5ex/GhostId/blob/main/ghostid.py
 ```
 ---
 ## 🚀 Uso
